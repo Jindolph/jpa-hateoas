@@ -25,6 +25,8 @@ curl localhost:8080/articles | json_pp
 
 You can see Json below.
 
+<pre>
+<code>
 {
    "_embedded" : {
       "articleList" : [
@@ -116,6 +118,8 @@ You can see Json below.
    }
 }
 
+</code>
+</pre>
 
 
 Can you see the beautiful useful links? I got it well.
