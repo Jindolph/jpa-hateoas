@@ -21,7 +21,7 @@ start maven run.
 
 and check with cUrl
 
-curl localhost:8080/articles | json_pp
+### curl localhost:8080/articles | json_pp
 
 You can see Json below.
 
